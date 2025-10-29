@@ -1,9 +1,14 @@
-# Changelog
-
-### Used
-
-- fetch 1 time, pull 1 time
-- stash 1 time
-- cherry-pick 1 time
-- used reset 3 times, revert 1 time
-- cherry-pick 1 time
+-h d2c71ff: docs:Update CHANGELOG (Nkosinathi Michael Sibanda, 5 minutes ago)
+-h 5a6edfc: docs:Update README (Nkosinathi Michael Sibanda, 24 minutes ago)
+-h a07b7b5: Added CHANGELOG.md (Nkosinathi Michael Sibanda, 27 minutes ago)
+-h eb59947: feat: no new feature in main (Nkosinathi Michael Sibanda, 44 minutes ago)
+-h 4b37633: feat: no new feature in main (Nkosinathi Michael Sibanda, 44 minutes ago)
+-h 6f4df15: feat: Add new feature (Nkosinathi Michael Sibanda, 44 minutes ago)
+-h d014d61: docs: Add FAQ section (Nkosinathi Michael Sibanda, 50 minutes ago)
+-h f5daa3e: merge: Resolve all conflicts between main and conlict-simulator branches (Nkosinathi Michael Sibanda, 61 minutes ago)
+-h d964df0: merge: Resolve all conflicts between main and dev branches (Nkosinathi Michael Sibanda, 84 minutes ago)
+-h d3dd9b2: updating conflict-simulator (Hanu Gupta, 6 days ago)
+-h 02011a5: updating dev (Hanu Gupta, 6 days ago)
+-h 0312c6f: updating main (Hanu Gupta, 6 days ago)
+-h fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+-h ae630eb: Initial commit (Hanu Gupta, 6 days ago)
